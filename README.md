@@ -1,1 +1,2 @@
 # A-Replication-study
+This project aims to replicate and extend the findings of Alvarez et al. (2015) on the impact of e-voting on citizen perceptions in Salta, Argentina. We replicate the propensity score matching method used in the original study and extend the analysis by incorporating genetic matching to assess the robustness of the findings. The original study focused on comparing perceptions of citizens who cast their votes using e-voting versus traditional voting, with implications for developing countries considering the adoption of e-voting technology. 
